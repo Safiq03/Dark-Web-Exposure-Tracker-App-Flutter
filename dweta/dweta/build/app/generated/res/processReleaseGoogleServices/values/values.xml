@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">457436047746</string>
+    <string name="google_api_key" translatable="false">AIzaSyDaUVCzSUfqfbQlXdAXsrMRzv6ulBoq_SM</string>
+    <string name="google_app_id" translatable="false">1:457436047746:android:bbc86e051ed6b111e3879b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDaUVCzSUfqfbQlXdAXsrMRzv6ulBoq_SM</string>
+    <string name="google_storage_bucket" translatable="false">dweta-1561a.firebasestorage.app</string>
+    <string name="project_id" translatable="false">dweta-1561a</string>
+</resources>

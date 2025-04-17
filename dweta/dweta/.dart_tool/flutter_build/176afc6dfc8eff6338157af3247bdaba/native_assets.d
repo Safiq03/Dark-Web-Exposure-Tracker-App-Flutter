@@ -1,0 +1,1 @@
+ /Users/mohammedsafiqnishar/development/Flutter\ Projects/dweta/.dart_tool/flutter_build/176afc6dfc8eff6338157af3247bdaba/native_assets.yaml: 
